@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-Hi, my name is Patrick! I'm a Cloud Solutions Architect by day, coffee nerd by choice, and part-time firefighter when duty calls. I'm based in the southern part of Stuttgart.
+Hi, my name is Patrick! I'm a Cloud Solutions Architect by day, coffee nerd by choice, and part-time firefighter when duty calls. I'm based in the southern part of Stuttgart, Germany.
 
 <img src="../images/patrick_generated.jpeg" alt="Patrick Schneider" width="250">
 
