@@ -22,10 +22,10 @@ Wanna chat in real life? Hit me up for a beer at the Gazi-Stadion during home ga
 
 
 <div style="display: flex; gap: 20px; margin-top: 20px;">
-    <a href="https://www.credly.com/earner/earned/badge/3ddf1361-7cd8-494f-af91-c941f8accb57" target="_blank">
+    <a href="https://www.credly.com/badges/3ddf1361-7cd8-494f-af91-c941f8accb57" target="_blank">
         <img src="../images/csa-associate.png" alt="AWS Certified Solutions Architect – Associate" width="150">
     </a>
-    <a href="https://www.credly.com/earner/earned/badge/4ba3032b-d02c-4e6a-8bd3-ac6440db2140" target="_blank">
+    <a href="https://www.credly.com/badges/4ba3032b-d02c-4e6a-8bd3-ac6440db2140" target="_blank">
         <img src="../images/csa-professional.png" alt="AWS Certified Solutions Architect – Professional" width="150">
     </a>
 </div>
