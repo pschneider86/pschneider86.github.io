@@ -3,13 +3,11 @@ layout: page
 title: About me
 permalink: /about/
 ---
+Hi, my name is Patrick! I'm a Cloud Solutions Architect by day, coffee nerd by choice, and part-time firefighter when duty calls. I'm based in the southern part of Stuttgart.
 
-<div style="display: flex; align-items: flex-start;">
-    <img src="../images/patrick_generated.jpeg" alt="Patrick Schneider" width="250" style="margin-right: 20px;">
-    <p>Hi, my name is Patrick! I'm a Cloud Solutions Architect by day, coffee nerd by choice, and part-time firefighter when duty calls. <br /><br /> 
-    
-    My cloud journey kicked off in 2022 when I helped migrate the Mercedes-Benz intranet to AWS — and let’s just say, I’ve been happily tangled in IAM policies and organizational units ever since.</p>
-</div>
+<img src="../images/patrick_generated.jpeg" alt="Patrick Schneider" width="250">
+
+My cloud journey kicked off in 2022 when I helped migrate the Mercedes-Benz intranet to AWS — and let’s just say, I’ve been happily tangled in IAM policies and organizational units ever since.
 
 What I love about the cloud? It’s fast-moving, ever-changing, and just the right amount of chaotic. There’s always something new to learn (and occasionally unlearn). I specialized in AWS IAM and Organizations so far, but I enjoy exploring all kinds of cloud challenges—mainly because I’m curious, and maybe just a bit stubborn.
 
@@ -18,8 +16,6 @@ This blog is where I share tutorials, tips, and tech adventures—always in a do
 Wanna chat in real life? Hit me up for a beer at the Gazi-Stadion during home games of the Stuttgarter Kickers!
 
 ---
-
-
 
 <div style="display: flex; gap: 20px; margin-top: 20px;">
     <a href="https://www.credly.com/badges/3ddf1361-7cd8-494f-af91-c941f8accb57" target="_blank">
